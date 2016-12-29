@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "In this folder you can find the presentations for the first R-Ladies Lisboa meetup.\n\nThe presentation ```Why_R.pdf```, provided by ilustat, can be found [here](https://github.com/ilustat/Presentations/blob/master/20161213_RLadiesLx_Why_R/Why_R.pdf) \n\n```R-Ladies_Welcome_20161213.html``` has the slides of the presentation, provided by Carolina Frias and Andreia Carlos.\n\n```R-Ladies_Welcome_20161213.Rmd``` has the code used for the previous slides\n\n\n\n ",
+    "created" : 1481903570485.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3350338496",
+    "id" : "99DF0F0D",
+    "lastKnownWriteTime" : 1481904544,
+    "last_content_update" : 1481904544720,
+    "path" : "~/agrou/1st_Event/Introduction.Rmd",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
