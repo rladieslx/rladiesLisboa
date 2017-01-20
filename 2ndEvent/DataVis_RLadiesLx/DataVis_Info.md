@@ -1,18 +1,24 @@
-## Ideas for the workshop
+---
+title: Ideas for the workshop
+date: "`r format(Sys.time(), '%d %B %Y')`"
+output: html_document
+logo: "R-LadiesGlobal_min.png"
+---
 
-1. Brief Introduction for social media
+
+#### 1. Brief Introduction for social media
 This workshop is for who wants to learn R or refresh some basic concepts in R and share some knowledge too! You'll be able to start right away with the R language and produce some useful data visualizations. This is a first step to motivate you to understand more about data and tell good stories with it.
 
 Este workshop é para todas e todos os que querem aprender R ou actualizar alguns conceitos básicos de R e partilhar conhecimento também! Será possível começar logo a programar em R e a produzir alguns exemplos úteis de visualização de dados. Este é o primeiro passo para te motivar a aprender mais sobre dados e a contar boas histórias com os mesmos.
 
-2. Useful links
+#### 2. Useful links
 
 * https://www.thinkwithgoogle.com/articles/tell-meaningful-stories-with-data.html
 * http://www.thinkwithgoogle.com/articles/data-stories.html
 * https://www.thinkwithgoogle.com/articles/data-to-insights-blueprint-for-your-business.html
 
 
-**3. Workshop content**
+#### **3. Workshop content**
 
 3.1. Objective 
 This workshop aims at introducing the R language to non-users by enabling them to make simple data visualizations. People who had previously contacted with R will also benefit from this workshop by refreshing previous concepts and sharing ideas and critical thinking with others. 
