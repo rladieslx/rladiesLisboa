@@ -129,3 +129,9 @@ Data analysis and data analysis interpretation will be out of the scope for this
 * Brief intro to R (founders maybe), R syntax (some brief examples to try - see on R Ladies RTP data vis workhop - info on github), base plot and ggplot2
 * Data visualization is not data analysis but can be a useful tool for story telling
 
+3.5. Futuros eventos
+
+* Estatística
+* Dplyr e manipulação de dados 
+* Dúvidas comuns, packages + utilizados (FMV)
+
