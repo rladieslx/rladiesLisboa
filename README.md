@@ -1,3 +1,3 @@
 # rladiesLisboa
 
-This is a repo for R-Ladies Lisboa material. 
+This is a repo for R-Ladies Lisboa material 
