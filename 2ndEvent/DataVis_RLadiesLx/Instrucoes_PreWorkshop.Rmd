@@ -1,5 +1,3 @@
-<span style = "color: green"> Add instructions to download R and install R studio</span>
-
 # Instalação de R e R-Studio ***(Installing R and R-Studio)***
 
 Para participar activamente no segundo workshop do R-Ladies (‘Visualização de Dados’), deve trazer consigo um computador portátil. Para que o computador execute código em R é necessário: 
